@@ -1,6 +1,6 @@
-e = input('Digite um Email: ')
+e = input('Digite seu nome: ')
 
-if e == "gabriel556@gmail.com":
-    print('Email validado corretamente!')
+if e == "Gabriel":
+    print('Nome validado corretamente!')
 else:
-    print('Email incorreto, tente novamente.')
+    print('Nome incorreto, tente novamente.')
