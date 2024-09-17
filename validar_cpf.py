@@ -1,6 +1,6 @@
-rg = int(input('Digite seu RG: '))
+cpf = int(input('Digite seu CPF: '))
 
-if rg == 457682340:
-    print('RG validado corretamente!')
+if cpf == 12345678929:
+    print('CPF validado corretamente!')
 else:
-    print('RG incorreto, tente novamente.')
+    print('CPF incorreto, tente novamente.')
